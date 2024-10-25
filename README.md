@@ -9,3 +9,20 @@ The game:
 -  Randomly generates the computer’s choice.
 -  Determines the winner based on standard game rules.
 -  Allows the player to keep playing until they choose to stop.
+
+## 🚀 Features
+- Interactive Gameplay: Choose between rock, paper, or scissors and challenge the computer.
+-  Emoji Representation: See your choices and the computer’s choice displayed with expressive emojis!
+-  Easy to Use: A simple command-line interface that prompts you for input and keeps the game going.
+-  Continue or Quit: After each round, decide whether to play again or exit the game.
+
+##  📷 Game Demo
+Here's a quick look at how the game works:
+
+bash
+
+Choose rock, paper, or scissors (r/p/s): r
+You chose 🪨
+Computer chose ✂️
+User wins!
+Continue the game (y/n)? y
