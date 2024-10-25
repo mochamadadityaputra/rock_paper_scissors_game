@@ -18,6 +18,3 @@ The game:
 
 ## 🤝 Contributing
 Feel free to fork the repository, create new features, or improve existing functionality. Pull requests are welcome!
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
