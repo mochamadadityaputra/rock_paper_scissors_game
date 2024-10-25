@@ -1,2 +1,2 @@
-# rock_paper_scissors_game
-This python code build for playing rock paper scissors on python
+# Rock, Paper, Scissors Game with Emojis 🎮
+Welcome to the Rock, Paper, Scissors Game repository! This is a simple Python implementation of the classic hand game, now with a fun twist: emojis! 🎉
