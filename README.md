@@ -16,13 +16,8 @@ The game:
 -  Easy to Use: A simple command-line interface that prompts you for input and keeps the game going.
 -  Continue or Quit: After each round, decide whether to play again or exit the game.
 
-##  📷 Game Demo
-Here's a quick look at how the game works:
+## 🤝 Contributing
+Feel free to fork the repository, create new features, or improve existing functionality. Pull requests are welcome!
 
-bash
-
-Choose rock, paper, or scissors (r/p/s): r
-You chose 🪨
-Computer chose ✂️
-User wins!
-Continue the game (y/n)? y
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
